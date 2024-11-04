@@ -21,11 +21,11 @@ This tool is designed to analyze URLs for potential phishing threats by scraping
 - Checks for the validity of the URL.
 - Verifies the presence of SSL certificates.
 - Determines if the website is potentially phishing based on SEO metrics.
+```
 
 ## Installation
 
 To use this tool, ensure you have Python installed along with the necessary libraries. You can install the required packages using pip:
-```
 ```bash
 pip install requests beautifulsoup4
 ```

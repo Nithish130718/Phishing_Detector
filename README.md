@@ -67,4 +67,3 @@ Contributions are welcome! If you have suggestions for improvements or additiona
 
 - [Requests](https://docs.python-requests.org/en/master/) - For making HTTP requests easier.
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - For parsing HTML and XML documents.
-```

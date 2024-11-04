@@ -25,7 +25,7 @@ This tool is designed to analyze URLs for potential phishing threats by scraping
 ## Installation
 
 To use this tool, ensure you have Python installed along with the necessary libraries. You can install the required packages using pip:
-
+```
 ```bash
 pip install requests beautifulsoup4
 ```
